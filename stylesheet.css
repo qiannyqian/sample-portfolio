@@ -29,3 +29,20 @@ body {
   font-size: 13px;
   color: #0099cc;
 }
+
+.buttons {
+  text-align: center;
+  font-size: 10px;
+}
+
+#salmon-btn {
+  color: #ff6666;
+}
+
+#teal-btn {
+  color:#00ffcc;
+}
+
+#sunshine-btn {
+  color: #ffcc00;
+}
